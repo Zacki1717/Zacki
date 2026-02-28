@@ -1,1 +1,29 @@
 # Zacki
+# Hi, I'm Zacki! 👋
+
+I am a passionate IT student at STI College, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+
+![ZACKI1717](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
+- 🌱 I’m currently learning Full Stack Web Development and API creation.
+- 💬 Ask me about my life as a student juggling academics and personal responsibilities.
+- 📫 How to reach me: 20240031359@my.xu.edu.ph
+
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React.
+  - Building server-side applications with Django or Express.js.
+
+## 🏆 Achievements
+- 🌟 Completed Git & GitHub Setup 2026
+- 🔭 I’m currently working on my final API project.
+
+## ✨ Fun Fact
+- 😄 Fun fact: I panic before exams but still somehow survive them.
+
+Thanks for stopping by!
